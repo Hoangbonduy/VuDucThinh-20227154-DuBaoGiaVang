@@ -48,3 +48,4 @@ streamlit run app.py
 ```
 
 > ⚠️ Yêu cầu: Python 3.10 trở lên
+> Link: https://dubaogiavang.streamlit.app
